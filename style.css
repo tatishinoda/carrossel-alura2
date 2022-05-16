@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700;900&display=swap");
+
+/* RESET */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+main {
+  max-width: 90%;
+  max-width: 1440px;
+  margin: 100px auto;
+  overflow: hidden;
+}
+h1 {
+  color: #093366;
+}
+span {
+  font-size: 32px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header,
+section {
+  padding: 0 36px;
+}
+section {
+  overflow-x: auto;
+  display: flex;
+  justify-content: left;
+}
+section::-webkit-scrollbar {
+  visibility: hidden;
+}
+.card {
+  min-width: 315px;
+  margin: 0 15px;
+  border: 1px solid #f2f7fe;
+ box-shadow: 4px 4px 20px rgba(120, 135, 182, 0.1);
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: ease 0.5s;
+  position: relative;
+  left: 0;
+  padding: 1.25rem 1.25rem 0;
+}
+.content{
+  font-size: 1rem;
+  color: #093366;
+}
+.card-info {
+  border-top: 1px solid #f2f7fe;
+  padding: 1.0625rem 0 1.25rem;
+  display: flex;
+  align-items: center;
+}
+.card-info i,
+.card-info span {
+  color: #bec8d8;
+}
+.card-info i {
+  font-size: 1.5625rem;
+}
+.card-info span {
+  font-size: 1rem;
+  line-height: 1.2rem;
+  font-weight: 700;
+  margin-left: 5px;
+}
