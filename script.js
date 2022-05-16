@@ -1,4 +1,4 @@
-var span = document.getElementsByClassName("nav");
+var span = document.getElementsByClassName("play");
 var div = document.getElementsByClassName("card");
 var pos = 0;
 

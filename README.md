@@ -2,7 +2,7 @@
 
 ## O projeto
 
-Segunda versão para estudo do case proposto para a vago de Pessoa Desenvolvedora Front-end Iniciante no Grupo Alura, seguindo layout fornecido no Figma.
+Versão para estudo do case proposto para a vaga de Pessoa Desenvolvedora Front-end Iniciante no Grupo Alura, seguindo layout fornecido no Figma.
 
 ## Tabela de conteúdo
 
@@ -18,12 +18,12 @@ Segunda versão para estudo do case proposto para a vago de Pessoa Desenvolvedor
 ### Layout da aplicação
 
 <div align="left">
-   <img src="https://i.imgur.com/3r95QRL.png" alt="Listagem de Cursos" height="125" width="100%">
+   <img src="https://i.imgur.com/3r95QRL.png" alt="Listagem de Cursos"  width="100%">
 </div>
 
 ### Demo da Aplicação
 
-https://tatishinoda.github.io/carrossel-alura/
+https://tatishinoda.github.io/carrossel-alura2/
 
 ### Construído com
 
